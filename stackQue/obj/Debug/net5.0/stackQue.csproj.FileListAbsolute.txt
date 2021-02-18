@@ -1,0 +1,16 @@
+D:\ILP\Data Structure\stackQue\bin\Debug\net5.0\stackQue.exe
+D:\ILP\Data Structure\stackQue\bin\Debug\net5.0\stackQue.deps.json
+D:\ILP\Data Structure\stackQue\bin\Debug\net5.0\stackQue.runtimeconfig.json
+D:\ILP\Data Structure\stackQue\bin\Debug\net5.0\stackQue.runtimeconfig.dev.json
+D:\ILP\Data Structure\stackQue\bin\Debug\net5.0\stackQue.dll
+D:\ILP\Data Structure\stackQue\bin\Debug\net5.0\ref\stackQue.dll
+D:\ILP\Data Structure\stackQue\bin\Debug\net5.0\stackQue.pdb
+D:\ILP\Data Structure\stackQue\obj\Debug\net5.0\stackQue.csprojAssemblyReference.cache
+D:\ILP\Data Structure\stackQue\obj\Debug\net5.0\stackQue.GeneratedMSBuildEditorConfig.editorconfig
+D:\ILP\Data Structure\stackQue\obj\Debug\net5.0\stackQue.AssemblyInfoInputs.cache
+D:\ILP\Data Structure\stackQue\obj\Debug\net5.0\stackQue.AssemblyInfo.cs
+D:\ILP\Data Structure\stackQue\obj\Debug\net5.0\stackQue.csproj.CoreCompileInputs.cache
+D:\ILP\Data Structure\stackQue\obj\Debug\net5.0\stackQue.dll
+D:\ILP\Data Structure\stackQue\obj\Debug\net5.0\ref\stackQue.dll
+D:\ILP\Data Structure\stackQue\obj\Debug\net5.0\stackQue.pdb
+D:\ILP\Data Structure\stackQue\obj\Debug\net5.0\stackQue.genruntimeconfig.cache

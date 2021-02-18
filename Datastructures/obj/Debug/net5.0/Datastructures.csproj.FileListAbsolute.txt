@@ -1,0 +1,16 @@
+D:\ILP\Datastructures\obj\Debug\net5.0\Datastructures.csprojAssemblyReference.cache
+D:\ILP\Datastructures\obj\Debug\net5.0\Datastructures.GeneratedMSBuildEditorConfig.editorconfig
+D:\ILP\Datastructures\obj\Debug\net5.0\Datastructures.AssemblyInfoInputs.cache
+D:\ILP\Datastructures\obj\Debug\net5.0\Datastructures.AssemblyInfo.cs
+D:\ILP\Datastructures\obj\Debug\net5.0\Datastructures.csproj.CoreCompileInputs.cache
+D:\ILP\Datastructures\bin\Debug\net5.0\Datastructures.exe
+D:\ILP\Datastructures\bin\Debug\net5.0\Datastructures.deps.json
+D:\ILP\Datastructures\bin\Debug\net5.0\Datastructures.runtimeconfig.json
+D:\ILP\Datastructures\bin\Debug\net5.0\Datastructures.runtimeconfig.dev.json
+D:\ILP\Datastructures\bin\Debug\net5.0\Datastructures.dll
+D:\ILP\Datastructures\bin\Debug\net5.0\ref\Datastructures.dll
+D:\ILP\Datastructures\bin\Debug\net5.0\Datastructures.pdb
+D:\ILP\Datastructures\obj\Debug\net5.0\Datastructures.dll
+D:\ILP\Datastructures\obj\Debug\net5.0\ref\Datastructures.dll
+D:\ILP\Datastructures\obj\Debug\net5.0\Datastructures.pdb
+D:\ILP\Datastructures\obj\Debug\net5.0\Datastructures.genruntimeconfig.cache
